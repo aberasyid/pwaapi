@@ -1,0 +1,24 @@
+{
+    "products" : [
+        {"id":1,"name":"Little blue penguin","category":"Orange"},
+        {"id":2,"name":"Capuchin, white-fronted","category":"Crimson"},
+        {"id":3,"name":"Polar bear","category":"Indigo"},
+        {"id":4,"name":"Common zebra","category":"Puce"},
+        {"id":5,"name":"Zebra, common","category":"Aquamarine"},
+        {"id":6,"name":"Mountain duck","category":"Orange"},
+        {"id":7,"name":"Pale-throated three-toed sloth","category":"Blue"},
+        {"id":8,"name":"Crocodile, nile","category":"Pink"},
+        {"id":9,"name":"Fox, blue","category":"Red"},
+        {"id":10,"name":"Pine snake (unidentified)","category":"Blue"},
+        {"id":11,"name":"Baboon, savanna","category":"Teal"},
+        {"id":12,"name":"Trumpeter, dark-winged","category":"Fuscia"},
+        {"id":13,"name":"Seal, common","category":"Goldenrod"},
+        {"id":14,"name":"Waxbill, black-cheeked","category":"Yellow"},
+        {"id":15,"name":"Weaver, red-billed buffalo","category":"Fuscia"},
+        {"id":16,"name":"Jackrabbit, white-tailed","category":"Crimson"},
+        {"id":17,"name":"Mara","category":"Turquoise"},
+        {"id":18,"name":"Black-collared barbet","category":"Pink"},
+        {"id":19,"name":"Black-backed jackal","category":"Fuscia"},
+        {"id":20,"name":"Red squirrel","category":"Violet"}
+    ]
+}
